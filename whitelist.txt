@@ -1,0 +1,6 @@
+# ==========================================
+# AutoClicker Whitelist
+# Add 1 authorized HWID or UUID per line
+# ==========================================
+0399676258952421
+B8074256-C56A-ED17-AFCA-D843AE4723BB
